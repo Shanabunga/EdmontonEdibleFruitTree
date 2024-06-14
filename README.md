@@ -1,7 +1,7 @@
 # Edmonton Edible Fruit Tree
 🌳🍏 Edmonton Edible Fruit Tree  🍐🌳  Welcome to the repository my final data visualization project with specialization in Tableau.  Edmonton lies within plant hardiness zone 3a, known for its cold winters and short warm summers, our goal is to identify resilient edible tree species that thrive in this environment
 
-#**Project Overview**
+# **Project Overview**
 In a recent data analysis project, I simulated a stakeholder team where the end goal was to provide insights. Instead of dwelling on the amount of data analyzed, I focused the importance of answering questions with data, establish KPI's, provide insights and key takeaways.
  
 In my professional experience, I've learned that stakeholders need meaningful insights to be able to make important decisions. 

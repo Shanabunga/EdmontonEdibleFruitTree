@@ -3,4 +3,5 @@
 
 ![Screenshot 2023-08-30 160222](https://github.com/Shanabunga/EdmontonEdibleFruitTree/assets/67124092/7940dd8d-45c2-4726-9ebf-581e8f9b1d69)
 
-https://www.linkedin.com/feed/update/urn:li:activity:7123097045501964290/
+**Link to my Linkedin article:**
+https://www.linkedin.com/pulse/edmontons-edible-fruit-tree-analysis-unlocking-insights-wilson-kcihc/?trackingId=p2LF%2Fqy%2FTb2b5%2Fw4DUMUuA%3D%3D

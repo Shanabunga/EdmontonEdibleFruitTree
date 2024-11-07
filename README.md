@@ -2,8 +2,6 @@
 
 This project analyzes the edible fruit tree landscape within the City of Edmonton, aiming to promote urban sustainability and engage the community. Using Tableau for data visualization, this project identifies resilient tree species that thrive in Edmonton’s challenging climate and provides insights to support the city’s urban planning goals.
 
-![Edible Fruit Tree Map](#)  <!-- Add image link if available -->
-
 ## **Project Overview**
 Edmonton lies in plant hardiness zone 3a, known for cold winters and short, warm summers. This analysis highlights the best edible tree species for urban growth, focusing on expanding the city’s tree canopy, promoting sustainability, and fostering community engagement.
 
